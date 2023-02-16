@@ -1,8 +1,4 @@
-# 欢迎来到龙群 Welcome to DragonHorde SMP!
-本服务器起步于2018年，前身为纯白之门服务器，2021年由城门服务器接手，2022年中由龙+继续运行，共走过 22 个模组生存周目与 3 个纯净生存周目。
-
-This server started in 2018, formerly known as the MarbleGate server, and was taken over by the CityGate server in 2021 and continued by Dragons+ in mid-2022, going through a total of 22 modded survival season and 3 vanilla survival seasons.  
-
+# 欢迎来到龙群 Welcome to DragonHorde! 
 ## 模组
 ### 黑龙赠礼 Gift From the Black Dragon
 中文版本的简介请查看[MCMOD百科页面](https://www.mcmod.cn/class/8421.html)
@@ -22,6 +18,7 @@ Version S20 runs on Fabric 1.19.2 and provides the ability to make copper blocks
 ### 模组生存 Modded Survival
 | Season<br>周目 | Start Time<br>启动时间| Version<br>版本 | Featuring<br>主玩 |
 |----|----|----|----|
+|`Season 23`<br>Encounter<br>偶遇|2023-1|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)，冰火传说|
 |`Season 22`<br>Coast<br>海岸|2022-12|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create), [精致存储](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)|
 |`Season 21`<br>Freezing<br>严冬|2022-11|1.16.5 Forge|整合包：[冬季救援](https://www.curseforge.com/minecraft/modpacks/the-winter-rescue)|
 |`Season 20`<br>Serenity<br>宁静|2022-9|1.19.2 Fabric|[科技复兴](https://www.curseforge.com/minecraft/mc-mods/techreborn), [Conjuring](https://www.curseforge.com/minecraft/mc-mods/conjuringl), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric), [作物盛景](https://www.curseforge.com/minecraft/mc-mods/croptopia), [地牢浮现之时](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric), [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)|
