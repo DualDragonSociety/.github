@@ -4,6 +4,8 @@
 中文版本的简介请查看[MCMOD百科页面](https://www.mcmod.cn/class/8421.html)
 
 > The mod has some sweet little changes to the mechanics of the minecraft and other mods. Each version of the mod is independent and runs on a specific module loader and version.
+Version [S23](https://github.com/DragonHordeSMP/GiftFromTheBlackDragon-S23/releases) runs on Forge 1.18.2 and offers the following feature:
+* Static Cloud Chest of Cloud Storage now support Funnel input & output of Create.
 
 Version [S22](https://github.com/DragonHordeSMP/GiftFromTheBlackDragon-S22/releases) runs on Forge 1.18.2 and offers the following features:
 * Completely disabled notifications for changing game modes.
