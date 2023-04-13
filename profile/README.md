@@ -1,27 +1,26 @@
-# 欢迎来到龙群 Welcome to DragonHorde! 
-## 模组
+# 欢迎来到双龙会 Welcome to DDS! 
+## 模组 Our Mod
 ### 黑龙赠礼 Gift From the Black Dragon
 中文版本的简介请查看[MCMOD百科页面](https://www.mcmod.cn/class/8421.html)
 
 > The mod has some sweet little changes to the mechanics of the minecraft and other mods. Each version of the mod is independent and runs on a specific module loader and version.
 
-Version [S23](https://github.com/DragonHordeSMP/GiftFromTheBlackDragon-S23/releases) runs on Forge 1.18.2 and offers the following feature:
+Version [S23](https://github.com/DualDragonSociety/GiftFromTheBlackDragon-S23/releases) runs on Forge 1.18.2 and offers the following feature:
 * Static Cloud Chest of Cloud Storage now support Funnel input & output of Create.
 
-Version [S22](https://github.com/DragonHordeSMP/GiftFromTheBlackDragon-S22/releases) runs on Forge 1.18.2 and offers the following features:
+Version [S22](https://github.com/DualDragonSociety/GiftFromTheBlackDragon-S22/releases) runs on Forge 1.18.2 and offers the following features:
 * Completely disabled notifications for changing game modes.
 * Added Farmer's Delight's Milk Bottle Smoking recipe for the Vanilla Cookbook's cheese. (Requires Farmer's Delight to be installed with the Vanilla Cookbook)
 * Added the recipe for Liquid Milk can be heated and stirred with Mechanical Mixer for the Vanilla Cookbook's Cheese. (Requires installation of Create with the Vanilla Cookbook)
 * Make bulk smoking to produce the Vanilla Cookbook's cheese return glass bottle. (Requires installation of Create with the Vanilla Cookbook)
 * Reduce the stress consumption of Create Ore Excavation to 12.5% of the original. (Requires installation of Create Ore Excavation)
 
-Version S20 runs on Fabric 1.19.2 and provides the ability to make copper blocks rust quickly. If you need this feature, please use [Way Much Faster Oxidize](https://www.curseforge.com/minecraft/mc-mods/way-much-faster-oxidize) mod (which provides expanded version of the feature).
-
 ## 周目档案 Season Archive
 ### 模组生存 Modded Survival
 | Season<br>周目 | Start Time<br>启动时间| Version<br>版本 | Featuring<br>主玩 |
 |----|----|----|----|
-|`Season 23`<br>Encounter<br>偶遇|2023-1|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)，冰火传说|
+|`Season 24`<br>Pokemon of Pixel|2023-4|1.19.2 Forge|[Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)，[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)|
+|`Season 23`<br>Encounter<br>遇见|2023-1|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)，冰火传说|
 |`Season 22`<br>Coast<br>海岸|2022-12|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create), [精致存储](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)|
 |`Season 21`<br>Freezing<br>严冬|2022-11|1.16.5 Forge|整合包：[冬季救援](https://www.curseforge.com/minecraft/modpacks/the-winter-rescue)|
 |`Season 20`<br>Serenity<br>宁静|2022-9|1.19.2 Fabric|[科技复兴](https://www.curseforge.com/minecraft/mc-mods/techreborn), [Conjuring](https://www.curseforge.com/minecraft/mc-mods/conjuringl), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric), [作物盛景](https://www.curseforge.com/minecraft/mc-mods/croptopia), [地牢浮现之时](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric), [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)|
