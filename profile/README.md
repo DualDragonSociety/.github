@@ -19,7 +19,8 @@ Version [S22](https://github.com/DualDragonSociety/GiftFromTheBlackDragon-S22/re
 ### 模组生存 Modded Survival
 | Season<br>周目 | Start Time<br>启动时间| Version<br>版本 | Featuring<br>主玩 |
 |----|----|----|----|
-|`Season 24`<br>Pokemon of Pixel|2023-4|1.19.2 Forge|[Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)，[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)|
+|`Season 25`<br>Pokemon of Pixel|2023-4|1.19.2 Forge|[Cobblemon](https://www.curseforge.com/minecraft/mc-mods/cobblemon)，[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)|
+|`Season 24`|2023-3|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
 |`Season 23`<br>Encounter<br>遇见|2023-1|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)，冰火传说|
 |`Season 22`<br>Coast<br>海岸|2022-12|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create), [精致存储](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)|
 |`Season 21`<br>Freezing<br>严冬|2022-11|1.16.5 Forge|整合包：[冬季救援](https://www.curseforge.com/minecraft/modpacks/the-winter-rescue)|
@@ -42,11 +43,11 @@ Version [S22](https://github.com/DualDragonSociety/GiftFromTheBlackDragon-S22/re
 |`Season 4`<br>Doomfist Seaside Cities<br>阿坎·奥古迪姆海岸城|2019-12|1.12.2 Forge|[沉浸工程](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering), [烹饪工艺 🍳](https://www.curseforge.com/minecraft/mc-mods/cuisine), [模拟殖民地](https://www.curseforge.com/minecraft/mc-mods/minecolonies)|
 |`Season 3`<br>Apocalypse Age<br>魔潮复苏启示录|2019-6|1.12.2 Forge|[植物魔法](https://www.curseforge.com/minecraft/mc-mods/botania), [神秘时代](https://www.curseforge.com/minecraft/mc-mods/thaumcraft), [失落的城市](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)|
 |`Season 2`<br>Industrial Renovation<br>工业复兴|2019-5|1.12.2 Forge|[Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft), [应用能源2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2), [末影接口](https://www.mcmod.cn/class/181.html)|
-|`Season 1`<br>RedHair Renaissance <br>红毛复兴|2019-4|1.12.2 Forge|[潘马斯农业](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft), [动物谷](https://www.curseforge.com/minecraft/mc-mods/animania), [超多生物群系](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
+|`Season 1`|2019-4|1.12.2 Forge|[潘马斯农业](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft), [动物谷](https://www.curseforge.com/minecraft/mc-mods/animania), [超多生物群系](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
 
 ### 纯净生存 Vanilla Survival
 | Season<br>周目 | Start Time<br>启动时间| Version<br>版本 |
 |----|----|----|
 |`Season 3`<br>Tranquil Paradise<br>安定|2020-8|1.16.5|
 |`Season 2`<br>Silent Wilderness<br>寂静荒野|2019-7|1.15.2|
-|`Season 1`<br>Redhair Village<br>红毛村|2018-7|网易 1.12.2|
+|`Season 1`|2018-7|网易 1.12.2|
