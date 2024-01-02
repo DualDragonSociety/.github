@@ -5,6 +5,7 @@ Season with less than half a month of active days will not be recorded.
 ### 模组生存 Modded Survival
 | Season<br>周目 | Start Time<br>启动时间| Version<br>版本 | Featuring<br>主玩 |
 |----|----|----|----|
+|`Season 26`|2023-10|1.19.2 Forge|机械动力，模拟殖民地|
 |`Season 24`<br>Windows<br>窗口|2023-3|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
 |`Season 23`<br>Encounter<br>遇见|2023-1|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create)，[农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)，冰火传说|
 |`Season 22`<br>Coast<br>海岸|2022-12|1.18.2 Forge|[机械动力](https://www.curseforge.com/minecraft/mc-mods/create), [精致存储](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [新生魔艺](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau), [农夫乐事](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)|
